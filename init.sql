@@ -1,4 +1,4 @@
-schema_prompt = """CREATE TABLE IF NOT EXISTS transactions (
+CREATE TABLE IF NOT EXISTS transactions (
     customer_id SERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
     surname VARCHAR(255) NOT NULL,
@@ -9,5 +9,4 @@ schema_prompt = """CREATE TABLE IF NOT EXISTS transactions (
     merchant_name VARCHAR(255) NOT NULL,
     category VARCHAR(255) NOT NULL
 );
--- Using valid SQLite, answer the following questions for the tables provided above.
-"""
+COPY transactions FROM '/data/sample_dataset.csv' DELIMITER ',' CSV HEADER;
