@@ -32,4 +32,6 @@ pip install -r requirements.txt
 ```shell
 streamlit run main.py     
 ```
+### Architecture Diagram
+![alt text](./nl-to-sql.png)
 

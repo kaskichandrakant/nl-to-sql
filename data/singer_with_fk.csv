@@ -1,0 +1,101 @@
+singer_id,name,country,song_name,song_release_year,age,is_male
+1,Douglas Horn,Cook Islands,clearly Song,2003,39,True
+2,Stephanie Yoder,Congo,management Song,1993,24,True
+3,Justin Johnson,Angola,itself Song,2022,31,False
+4,Judith White,Bouvet Island (Bouvetoya),usually Song,2020,36,True
+5,Casey Landry,Gambia,against Song,2000,36,True
+6,Angela Burns,Afghanistan,various Song,1977,29,False
+7,Christina Kemp,Panama,general Song,1996,27,False
+8,Michael Conner,Norfolk Island,field Song,1986,37,True
+9,Rachel Perez,Benin,same Song,2014,32,True
+10,Laura Harper,Libyan Arab Jamahiriya,fill Song,2019,20,False
+11,Bruce Thomas,Congo,floor Song,1972,28,True
+12,Courtney Green,Malawi,although Song,2017,31,False
+13,Michael Moran,Saudi Arabia,class Song,2010,22,False
+14,Michelle Hamilton,Peru,prepare Song,1992,20,False
+15,Matthew Davis,Ukraine,key Song,1971,31,True
+16,Mitchell Spencer,Morocco,pay Song,1992,34,True
+17,Anthony Olsen,Swaziland,political Song,1974,23,False
+18,Stephanie Mckenzie,Cayman Islands,son Song,1973,31,False
+19,William Moore,Sri Lanka,world Song,1980,38,True
+20,Ashley Jones,Lebanon,spend Song,1990,27,True
+21,William Schmidt,Iceland,month Song,1995,24,True
+22,Carolyn Campbell DVM,Antigua and Barbuda,office Song,1994,39,True
+23,Robert Holmes DVM,Ethiopia,free Song,2013,24,True
+24,Justin Lawrence,Tajikistan,treatment Song,2003,29,False
+25,Catherine Smith,Jordan,write Song,2000,36,False
+26,Amy Rivera,Bangladesh,fly Song,1985,37,True
+27,Gina Mcdonald,Senegal,nature Song,1979,26,False
+28,Christian Kennedy,Japan,medical Song,2021,27,True
+29,Sherry Davis,New Zealand,third Song,2007,28,False
+30,Joseph King,Cambodia,ten Song,1971,36,True
+31,Jared Cooper,Belgium,herself Song,1990,31,False
+32,Cindy Kelly,Switzerland,until Song,2019,33,True
+33,Edward Leonard,Bouvet Island (Bouvetoya),foreign Song,2013,34,False
+34,Andre Brown,Guatemala,eye Song,2006,29,False
+35,Cheryl Mendez,Anguilla,nature Song,1988,30,False
+36,Wendy Robinson,Macao,ask Song,2009,34,False
+37,Shelley Hunt,Afghanistan,far Song,2014,36,True
+38,Todd Nguyen,Mayotte,nothing Song,2015,38,True
+39,Brooke Fisher,Mali,personal Song,1974,29,False
+40,Melissa Arroyo,Cyprus,base Song,2017,40,False
+41,Mackenzie Smith,Argentina,land Song,1997,40,True
+42,Annette Parker,Holy See (Vatican City State),easy Song,1989,35,False
+43,Linda Rodriguez,Mexico,Democrat Song,2002,28,True
+44,Jordan Adams,Saint Lucia,some Song,2007,32,True
+45,Joseph Reyes,Holy See (Vatican City State),mean Song,2005,31,False
+46,Katherine Navarro,Uganda,population Song,1994,20,True
+47,Michael Leblanc,Guam,health Song,2021,35,False
+48,Gregory Sanchez,Montserrat,south Song,2016,38,False
+49,Deanna Miller,Luxembourg,present Song,1997,39,False
+50,Gregory Rodriguez,Kyrgyz Republic,above Song,2021,22,True
+51,Jeffrey Adams,San Marino,need Song,1995,27,False
+52,Kristen Liu,Cameroon,cost Song,1989,21,False
+53,James Solis,Albania,best Song,1990,25,True
+54,Mark Wang,Bosnia and Herzegovina,admit Song,1995,20,False
+55,Lindsay Graham,Taiwan,administration Song,2019,33,False
+56,Regina Barber,Bouvet Island (Bouvetoya),law Song,2016,32,False
+57,Jennifer Cantu,Kenya,perhaps Song,2020,32,True
+58,Eric Campbell,Saint Martin,suffer Song,2001,27,True
+59,Cynthia Orozco,Chad,night Song,1970,29,False
+60,Gary Williams,Saint Lucia,game Song,1982,34,True
+61,Christina Bell,United Kingdom,provide Song,1987,20,False
+62,Gregg Smith,Greece,various Song,1985,25,True
+63,Crystal Wright,Benin,mouth Song,2001,30,True
+64,Gary Reeves,Uganda,stock Song,2001,35,True
+65,John Jimenez,Paraguay,customer Song,1995,30,False
+66,Noah Hicks,Sweden,full Song,2002,33,False
+67,Ashley Mcgee,British Virgin Islands,defense Song,1985,37,False
+68,Kenneth Mills,Albania,enter Song,1984,32,True
+69,John Parker,Azerbaijan,fire Song,2010,33,True
+70,Tonya Arias,Jordan,across Song,1974,22,False
+71,Jenna Garcia,Andorra,weight Song,2001,30,True
+72,Kimberly Young,Marshall Islands,the Song,1978,27,True
+73,John Nichols,Guyana,sort Song,2000,37,False
+74,Adam Ortega,Lithuania,value Song,2019,37,True
+75,Tracy Nelson,Solomon Islands,detail Song,2008,24,True
+76,Matthew Thomas,Saudi Arabia,knowledge Song,2006,26,False
+77,Roger Abbott,Moldova,sister Song,1972,27,False
+78,Rick Boyd,Korea,improve Song,2005,36,False
+79,Jason Horton,Honduras,month Song,1994,33,True
+80,Jacqueline Carroll,Malaysia,try Song,2002,20,False
+81,Clayton Richardson,Spain,per Song,1976,23,False
+82,Hayley Scott,Maldives,night Song,2020,24,False
+83,Travis Watkins,Haiti,to Song,1997,40,False
+84,Jasmine Armstrong,Bermuda,training Song,2014,26,False
+85,Jesus Joseph,Belarus,meet Song,2010,36,False
+86,Michele Leonard,Cayman Islands,we Song,1993,26,False
+87,Nicole Hamilton,Guadeloupe,there Song,2010,34,False
+88,Benjamin Jacobs,Denmark,and Song,1975,21,False
+89,Spencer White,South Georgia and the South Sandwich Islands,none Song,2004,34,True
+90,Travis Brennan,Malta,lay Song,1973,31,True
+91,Emily Gates,Nicaragua,baby Song,1976,22,False
+92,Denise Thomas,Germany,easy Song,1978,30,True
+93,Alex Moreno,Mali,data Song,2010,40,True
+94,Kristine Bell,Iran,east Song,2005,25,True
+95,Matthew Johnson,Ethiopia,capital Song,1983,23,False
+96,Jason Smith,Uganda,step Song,1999,38,False
+97,Abigail Butler,Brunei Darussalam,natural Song,2019,37,True
+98,Victoria Cunningham,Panama,allow Song,1972,23,False
+99,Jeanne Johnston,Saint Vincent and the Grenadines,believe Song,1982,32,True
+100,Michael Larson,Bolivia,feeling Song,1991,40,False

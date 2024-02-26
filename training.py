@@ -2,8 +2,10 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from connector import connect
 from format import format_res
-from schema import schema_prompt
+from schema import  concert_schema
 import streamlit as st
+
+current_schema = concert_schema
 
 conn = connect()
 cur = conn.cursor()
@@ -29,16 +31,16 @@ def start_app():
         st.chat_message("user").markdown(prompt)
         # Add user message to chat history
         st.session_state.messages.append({"role": "user", "content": prompt})
-        query = schema_prompt + f"-- {prompt}"
+        query = current_schema + f"-- {prompt}"
         with st.chat_message("assistant"):
             with st.spinner("Thinking"):
                 input_ids = tokenizer(query, return_tensors="pt").input_ids
-                generated_ids = model.generate(input_ids, max_length=500)
+                generated_ids = model.generate(input_ids, max_length=500, pad_token_id=tokenizer.eos_token_id)
                 response = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
                 try:
                     sql_query = format_res(response)
                     st.markdown(sql_query)
-                    result = cur.execute(sql_query)
+                    cur.execute(sql_query)
                     rows = cur.fetchall()[:50]
                     st.table(rows)
                 except:
