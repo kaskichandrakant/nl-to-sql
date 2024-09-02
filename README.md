@@ -14,6 +14,10 @@ Created with llama 2's fine-tuned pretrained model nsql-350M
 
 ## Injecting data in sample db
 
+```shell
+# access postgres database
+psql -h localhost -p 5433 -U myuser -d mydatabase 
+```
 ```postgresql
 --  Run following script in psql console
 COPY transactions FROM '/data/sample_dataset.csv' DELIMITER ',' CSV HEADER;
